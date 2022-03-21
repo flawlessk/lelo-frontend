@@ -1,0 +1,18 @@
+.organization-wrapper {
+    width: 589px;
+    height: 95px;
+    background-color: black;
+    border-radius: 54px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.organization-wrapper:hover {
+    background-color: #FFCA05;
+}
+.choose-organization {
+    color: #ffffff; 
+    font-size: 28px
+}
+

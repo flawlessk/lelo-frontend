@@ -1,0 +1,14 @@
+.plans-wrapper {
+    box-shadow: 0px 5px 20px 0px rgba(112,112,112,0.75);
+-webkit-box-shadow: 0px 5px 20px 0px rgba(112,112,112,0.75);
+-moz-box-shadow: 0px 5px 20px 0px rgba(112,112,112,0.75);
+width: 588px;
+        border-radius: 54px;
+        height: 95px;
+        background-color: #FFCA05;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 35px;
+        cursor: 'pointer';
+}

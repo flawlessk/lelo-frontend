@@ -1,0 +1,27 @@
+.topContentBtn {
+    width: 369px; 
+    height: 90px; 
+    border-radius: 45px;
+    background-color: #FFCA05;
+    text-align: center;
+    font-size: 28px;
+    color: white;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sessionBtn {
+    width: 207px;
+    height: 68px;
+    font-size: 18px;
+    border-radius: 39px;
+    background-color: #FFCA05;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

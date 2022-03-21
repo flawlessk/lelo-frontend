@@ -1,0 +1,7 @@
+.single-card {
+    box-shadow: 0px 3px 31px 0px rgba(112,112,112,0.75);
+-webkit-box-shadow: 0px 3px 31px 0px rgba(112,112,112,0.75);
+-moz-box-shadow: 0px 3px 31px 0px rgba(112,112,112,0.75);
+    background-color: #ffffff;
+            border-radius: 25px
+}

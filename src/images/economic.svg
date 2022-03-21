@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="34" viewBox="0 0 28 34">
+  <g id="Group_143" data-name="Group 143" transform="translate(-494 -1059)">
+    <g id="Rectangle_216" data-name="Rectangle 216" transform="translate(494 1081)" fill="none" stroke="#fff" stroke-width="1.5">
+      <rect width="5" height="12" rx="1" stroke="none"/>
+      <rect x="0.75" y="0.75" width="3.5" height="10.5" rx="0.25" fill="none"/>
+    </g>
+    <g id="Rectangle_217" data-name="Rectangle 217" transform="translate(502 1075)" fill="none" stroke="#fff" stroke-width="1.5">
+      <rect width="5" height="18" rx="1" stroke="none"/>
+      <rect x="0.75" y="0.75" width="3.5" height="16.5" rx="0.25" fill="none"/>
+    </g>
+    <g id="Rectangle_218" data-name="Rectangle 218" transform="translate(509 1073)" fill="none" stroke="#fff" stroke-width="1.5">
+      <rect width="5" height="20" rx="1" stroke="none"/>
+      <rect x="0.75" y="0.75" width="3.5" height="18.5" rx="0.25" fill="none"/>
+    </g>
+    <g id="Rectangle_219" data-name="Rectangle 219" transform="translate(517 1067)" fill="none" stroke="#fff" stroke-width="1.5">
+      <rect width="5" height="26" rx="1" stroke="none"/>
+      <rect x="0.75" y="0.75" width="3.5" height="24.5" rx="0.25" fill="none"/>
+    </g>
+    <circle id="Ellipse_69" data-name="Ellipse 69" cx="2.5" cy="2.5" r="2.5" transform="translate(494 1074)" fill="#fff"/>
+    <circle id="Ellipse_70" data-name="Ellipse 70" cx="2.5" cy="2.5" r="2.5" transform="translate(502 1067)" fill="#fff"/>
+    <circle id="Ellipse_71" data-name="Ellipse 71" cx="2.5" cy="2.5" r="2.5" transform="translate(509 1065)" fill="#fff"/>
+    <circle id="Ellipse_72" data-name="Ellipse 72" cx="2.5" cy="2.5" r="2.5" transform="translate(517 1059)" fill="#fff"/>
+    <path id="Path_101" data-name="Path 101" d="M-166.5,5219.5l8.139-7.128,6.993-1.84,7.913-6.165" transform="translate(663 -4143)" fill="none" stroke="#fff" stroke-width="1"/>
+  </g>
+</svg>
